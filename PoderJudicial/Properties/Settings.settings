@@ -1,0 +1,66 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PoderJudicial.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="EmailTemplate" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Fallos\email\poderjudicial.html</Value>
+    </Setting>
+    <Setting Name="EmaildeNombre" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Thomson Reuters</Value>
+    </Setting>
+    <Setting Name="EmaildeCorreo" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">webmaster@legalpublishing.cl</Value>
+    </Setting>
+    <Setting Name="EmailTitulo" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Reporte fallos masivos LOES</Value>
+    </Setting>
+    <Setting Name="EmailResponderA" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">enzo.lepe@thomsonreuters.com</Value>
+    </Setting>
+    <Setting Name="EmailParaCC" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">rosa.munoz@thomsonreuters.com</Value>
+    </Setting>
+    <Setting Name="EmailNombre" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Tamara Vives</Value>
+    </Setting>
+    <Setting Name="EmailEmail" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">tamara.vives@thomsonreuters.com</Value>
+    </Setting>
+    <Setting Name="EmailCS" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Data Source=10.81.203.32;Initial Catalog=lexisnexis2;User ID=intra-net;Password=intranet159</Value>
+    </Setting>
+    <Setting Name="NumeroCaracteres" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">4500</Value>
+    </Setting>
+    <Setting Name="PathToPdfToText" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\temp\xpdf\bin64\pdftotext.exe</Value>
+    </Setting>
+    <Setting Name="PathToLibreOffice" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Program Files\LibreOffice\program\soffice.exe</Value>
+    </Setting>
+    <Setting Name="PathToFirefox" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Program Files\Mozilla Firefox\firefox.exe</Value>
+    </Setting>
+    <Setting Name="FirefoxCommandTimeout" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">180</Value>
+    </Setting>
+    <Setting Name="PJCS" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Data Source=172.16.1.9;Initial Catalog=LOES;User ID=intra-net;Password=intranet159</Value>
+    </Setting>
+    <Setting Name="ExcelPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Fallos\docs\excel</Value>
+    </Setting>
+    <Setting Name="PDFPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Fallos\docs\pdf</Value>
+    </Setting>
+    <Setting Name="LocalDBPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">B:\Poder Judicial\DB\PJRobots.sqlite</Value>
+    </Setting>
+    <Setting Name="DocumentosLote" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">250</Value>
+    </Setting>
+    <Setting Name="PathTxt" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Fallos\docs\txt</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
